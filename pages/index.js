@@ -17,7 +17,7 @@ export default function Home() {
           Convert YouTube, TikTok, SoundCloud and more to high-quality MP3 files right from Telegram!
         </p>
         <a
-          href="https://t.me/YOUR_BOT_USERNAME"
+          href="https://t.me/NengzXYTPM3_BOT"
           target="_blank"
           rel="noopener noreferrer"
           style={styles.button}
@@ -25,7 +25,7 @@ export default function Home() {
           Start Bot
         </a>
         <footer style={styles.footer}>
-          Powered by <a href="https://t.me/ismenengzx" style={styles.link}>NengzX</a>
+          Powered by <a href="https://t.me/NengzX" style={styles.link}>NengzX</a>
         </footer>
       </main>
     </>
